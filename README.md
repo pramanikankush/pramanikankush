@@ -19,16 +19,16 @@
 
 ---
 
-# 🧠 AI • LLMs • Agents (All Icons Working)
+# 🧠 AI • LLMs • Agents
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/huggingface/huggingface.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/onnx/onnx.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/langchain/langchain.png" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48">
+  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" height="48">
+  <img src="https://python.langchain.com/img/brand/wordmark.png" height="48">
 </p>
 
 ---
@@ -36,10 +36,10 @@
 # 🔍 Vector Databases & Retrieval
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/milvus-io/milvus-logo/main/milvus.png" height="48">
-  <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" height="48">
-  <img src="https://raw.githubusercontent.com/weaviate/weaviate/main/docs/assets/weaviate-logo.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png" height="48">
+  <img src="https://milvus.io/images/milvus_logo.svg" height="48">
+  <img src="https://qdrant.tech/img/logo_with_text.png" height="48">
+  <img src="https://weaviate.io/img/site/weaviate-logo-light.png" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="48">
 </p>
 
 ---
@@ -47,9 +47,9 @@
 # 🛠 Backend, APIs & Services
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48">
 </p>
 
 ---
@@ -57,9 +57,9 @@
 # 🎨 Frontend & Web
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="48">
 </p>
 
 ---
@@ -67,11 +67,11 @@
 # ☁️ Cloud, MLOps & Infrastructure
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" height="48">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48">
 </p>
 
 ---
