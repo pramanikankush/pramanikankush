@@ -1,63 +1,76 @@
-# Hi, I'm Ankush Pramanik.  
-### 🏗️ Architecting the Next Generation of Agentic AI.
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AnkushPramanik&label=Profile%20Views&color=blue&style=flat" alt="AnkushPramanik" />
-</p>
-
-I am a **Full-Stack AI Engineer** focused on building systems that *think*. I specialize in creating autonomous agents, optimizing RAG for complex datasets, and building scalable Next.js interfaces for AI models.
-
----
-
-### 🧭 What I'm Working On
-> Currently bridging the gap between **LLM Reasoning** and **Production Reliability**.
-
-<details>
-<summary><b>🤖 Agentic AI Systems</b></summary>
-Building autonomous agents capable of planning, tool use, and memory retention using LangChain and LangGraph.
-</details>
-
-<details>
-<summary><b>📚 Enterprise RAG</b></summary>
-Developing "LexAI" and other retrieval systems using Hybrid Search (Sparse + Dense) and GraphRAG for high-precision context.
-</details>
-
-<details>
-<summary><b>⚡ Full-Stack Integration</b></summary>
-Wrapping complex AI logic in clean, fast APIs using FastAPI and creating reactive frontends with Next.js 14.
-</details>
-
----
-
-### 💻 Technical Proficiency
-
-| Domain | Stack |
-| :--- | :--- |
-| **Generative AI** | `LangChain` `LlamaIndex` `HuggingFace` `OpenAI API` `Gemini` |
-| **Machine Learning** | `PyTorch` `TensorFlow` `Scikit-learn` `NumPy` `Pandas` |
-| **Vector Databases** | `Milvus` `Pinecone` `ChromaDB` `Qdrant` |
-| **Web Backend** | `FastAPI` `Flask` `Node.js` `Express` |
-| **Web Frontend** | `Next.js` `React` `TailwindCSS` `TypeScript` |
-
----
-
-### 📈 GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkushPramanik&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushPramanik&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=70&lines=SYSTEM_INIT:...+Welcome_User;Target:+Ankush+Pramanik;Role:+AI+Engineer+%7C+Agentic+Architect;Mission:+Building+Autonomous+Reasoning+Systems" />
 </div>
 
+<div align="center">
+  <img src="https://media.tenor.com/dG8vxCDBj4kAAAAC/ultra-instinct-goku.gif" width="100%" style="border-radius: 10px; border: 2px solid #00E5FF; box-shadow: 0 0 20px #00E5FF;">
+</div>
+
+---
+
+<table align="center" style="border: none;">
+<tr>
+<td align="left" width="55%" valign="top">
+
+### ⚡ Neural Architecture (About Me)
+> *"I don't just write code; I design digital cognition."*
+
+I am an **AI Engineer & Agentic Architect** building the bridge between LLMs and reliable enterprise logic. My focus is on **RAG pipelines, Multi-Agent Systems, and Full-Stack AI**.
+
+- 🧠 **Agentic AI:** Building autonomous agents with memory, planning & tool use.
+- 🔍 **Advanced RAG:** Hybrid search, GraphRAG & Vector Intelligence.
+- 🛠 **Full-Stack AI:** Next.js + FastAPI + LangChain ecosystems.
+- ⚙️ **Optimization:** LLM Fine-tuning (QLoRA) & Reasoning Chains.
+
+### 🚀 Active Protocols (Projects)
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| **LexAI** | Gemini + Legal RAG | 🟢 Online |
+| **ARES Portal** | Next.js + Agents | 🟡 In Dev |
+| **Plant Health** | Flask + CNN + Gemini | 🟢 Online |
+
+</td>
+<td align="center" width="45%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pramanikankush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=bfbfbf" />
 <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pramanikankush&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠 The Tech Arsenal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+
+| **The Brain (AI & ML)** | **The Nervous System (Backend)** | **The Face (Frontend)** | **The Infrastructure** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) <br> ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) <br> ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20bard&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) <br> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <br> ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white) | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+
+</div>
+
+---
+
+### 🎮 Simulation Active (Contributions)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pramanikankush/pramanikankush/output/github-contribution-grid-snake.svg" onerror="this.src='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg'" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pramanikankush&label=SYSTEM_ACCESS_COUNT&color=00E5FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-pramanik-853565259/) 
-
+  <h3>👇 Initialize Connection 👇</h3>
+  <a href="https://www.linkedin.com/in/ankush-pramanik-853565259/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Send_Signal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+  </a>
 </div>
