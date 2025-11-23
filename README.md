@@ -54,17 +54,6 @@ I am an **AI Engineer & Agentic Architect** building the bridge between LLMs and
 
 ---
 
-### 🎮 Simulation Active (Contributions)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pramanikankush/pramanikankush/output/github-contribution-grid-snake.svg" alt="Snake animation unavailable. Please set up the GitHub Action." width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pramanikankush&label=SYSTEM_ACCESS_COUNT&color=00E5FF&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
 <div align="center">
   <h3>👇 Initialize Connection 👇</h3>
   <a href="https://www.linkedin.com/in/ankush-pramanik-853565259/">
