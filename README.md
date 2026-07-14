@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pramanikankush/pramanikankush/main/dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pramanikankush/pramanikankush/main/light.svg?v=2">
-  <img alt="Ankush Pramanik — Agentic Systems Engineer & AI Loop Architect" src="https://raw.githubusercontent.com/pramanikankush/pramanikankush/main/dark.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pramanikankush/pramanikankush/main/profile_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pramanikankush/pramanikankush/main/profile_light.svg">
+  <img alt="Ankush Pramanik — Agentic Systems Engineer & AI Loop Architect" src="https://raw.githubusercontent.com/pramanikankush/pramanikankush/main/profile_dark.svg">
 </picture>
 
 </div>

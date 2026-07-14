@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="660" viewBox="0 0 980 660" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
 <style>
-    .art  { fill:#bc8cff; font-size:6.2px; white-space:pre; }
-    .key  { fill:#3fb950; font-size:13px; font-weight:700; }
-    .val  { fill:#c9d1d9; font-size:13px; }
-    .acc  { fill:#58a6ff; font-size:13px; }
-    .wrn  { fill:#d29922; font-size:13px; }
-    .mut  { fill:#8b949e; font-size:12px; }
-    .hdr  { fill:#58a6ff; font-size:15px; font-weight:700; }
-    .sec  { fill:#8b949e; font-size:12px; letter-spacing:1px; }
-    .ttl  { fill:#8b949e; font-size:12px; }
+    .art  { fill:#8250df; font-size:6.2px; white-space:pre; }
+    .key  { fill:#1a7f37; font-size:13px; font-weight:700; }
+    .val  { fill:#1f2328; font-size:13px; }
+    .acc  { fill:#0969da; font-size:13px; }
+    .wrn  { fill:#9a6700; font-size:13px; }
+    .mut  { fill:#59636e; font-size:12px; }
+    .hdr  { fill:#0969da; font-size:15px; font-weight:700; }
+    .sec  { fill:#59636e; font-size:12px; letter-spacing:1px; }
+    .ttl  { fill:#59636e; font-size:12px; }
     .row  { opacity:1; animation: fade .35s ease backwards; }
     @keyframes fade { from { opacity:0; transform:translateY(3px); }
                        to   { opacity:1; transform:translateY(0); } }
-    .cur  { fill:#3fb950; animation: blink 1s steps(1) infinite; }
+    .cur  { fill:#1a7f37; animation: blink 1s steps(1) infinite; }
     @keyframes blink { 50% { opacity:0; } }
     .artline { opacity:1; animation: fade .3s ease backwards; }
     </style>
-<rect x="1" y="1" width="978" height="658" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
-<path d="M1 13 a12 12 0 0 1 12 -12 h954 a12 12 0 0 1 12 12 v25 h-978 z" fill="#161b22"/>
-<line x1="1" y1="38" x2="979" y2="38" stroke="#30363d"/>
+<rect x="1" y="1" width="978" height="658" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 h954 a12 12 0 0 1 12 12 v25 h-978 z" fill="#f6f8fa"/>
+<line x1="1" y1="38" x2="979" y2="38" stroke="#d0d7de"/>
 <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
 <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
 <circle cx="64" cy="20" r="6" fill="#27c93f"/>
@@ -69,7 +69,7 @@
 <text x="30" y="363.7" class="art artline" xml:space="preserve" textLength="374.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.65s">:::::::::::::::::::::::.  -@#+=-:--=--:-=..+#+==-:...   . =@%*--::=+=*@:  .:::::::::::::::::::::</text>
 <text x="30" y="370.4" class="art artline" xml:space="preserve" textLength="374.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.67s">:::::::::::::::::::::::.  :@%+=----------:.:=++++=+*+-==++*#=.:::=+=+%*  ..:::::::::::::::::::::</text>
 <text x="448" y="90.0" class="hdr row" style="animation-delay:0.35s">ankush pramanik</text>
-<line x1="448" y1="99.5" x2="940" y2="99.5" stroke="#30363d" class="row" style="animation-delay:0.42s"/>
+<line x1="448" y1="99.5" x2="940" y2="99.5" stroke="#d0d7de" class="row" style="animation-delay:0.42s"/>
 <text x="448" y="115.5" class="key row" style="animation-delay:0.49s">Role</text>
 <text x="540" y="115.5" class="val row" style="animation-delay:0.49s">Agentic Systems Engineer  ·  AI Loop Architect</text>
 <text x="448" y="133.0" class="key row" style="animation-delay:0.56s">Edu</text>
@@ -110,5 +110,5 @@
 <text x="448" y="523.0" class="key row" style="animation-delay:1.96s">Mail</text>
 <text x="540" y="523.0" class="acc row" style="animation-delay:1.96s">ankushpramanik@gmail.com</text>
 <text x="30" y="636" class="row" style="animation-delay:2.13s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">building agentic loops · MCP · context engineering · open to roles</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="636" class="mut" text-anchor="end">last updated 14 Jul 2026, 22:04 IST</text>
+<text x="946" y="636" class="mut" text-anchor="end">last updated 14 Jul 2026, 22:08 IST</text>
 </svg>

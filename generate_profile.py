@@ -61,13 +61,13 @@ INFO = [
 ]
 
 THEMES = {
-    "dark": {
+    "profile_dark": {
         "bg": "#0d1117", "panel": "#161b22", "border": "#30363d",
         "text": "#c9d1d9", "muted": "#8b949e", "key": "#3fb950",
         "accent": "#58a6ff", "warn": "#d29922", "art": "#bc8cff",
         "prompt": "#3fb950", "dot1": "#ff5f56", "dot2": "#ffbd2e", "dot3": "#27c93f",
     },
-    "light": {
+    "profile_light": {
         "bg": "#ffffff", "panel": "#f6f8fa", "border": "#d0d7de",
         "text": "#1f2328", "muted": "#59636e", "key": "#1a7f37",
         "accent": "#0969da", "warn": "#9a6700", "art": "#8250df",
