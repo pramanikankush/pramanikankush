@@ -32,25 +32,26 @@ def load_portrait():
 INFO = [
     ("__header__", "ankush pramanik", ""),
     ("__rule__", "", ""),
-    ("Role",     "AI Engineer & Forward Deployed Engineer", "val"),
+    ("Role",     "Agentic Systems Engineer  ·  AI Loop Architect", "val"),
     ("Edu",      "B.Tech CSE (Data Science)  ·  ABES Ghaziabad  ·  2026", "val"),
-    ("Focus",    "Agentic AI  ·  RAG Pipelines  ·  LLMs", "accent"),
+    ("Focus",    "MCP  ·  Context Engineering  ·  Agentic Loops", "accent"),
     ("__blank__", "", ""),
     ("__section__", "~/stack", ""),
-    ("Lang",     "Python · SQL", "val"),
-    ("AI",       "LangChain · Gemini · GPT-4 · Claude · RAG", "val"),
-    ("Agent",    "Multi-Agent · ReAct · Tool Use · Guardrails", "val"),
-    ("Retrieval","FAISS · Pinecone · pgvector · Semantic Chunking", "val"),
+    ("Lang",     "Python · TypeScript · SQL", "val"),
+    ("Protocol", "MCP · A2A · Tool Calling · Function Calling", "val"),
+    ("Agents",   "LangGraph · ReAct · Self-Healing Loops · CrewAI", "val"),
+    ("Retrieval","FAISS · pgvector · Pinecone · Hybrid Search", "val"),
     ("Infra",    "AWS · Docker · GitHub Actions · Vercel", "val"),
+    ("Eval",     "LLM-as-Judge · Evals Pipeline · CoT · Guardrails", "val"),
     ("__blank__", "", ""),
     ("__section__", "~/projects", ""),
-    ("DocuMind", "AI document intelligence · RAG + Gemini + FAISS", "warn"),
-    ("VoiceTasks","voice-to-task manager · Supabase Realtime + Gemini", "warn"),
+    ("DocuMind", "MCP-powered doc intelligence · RAG + Gemini + FAISS", "warn"),
+    ("VoiceTasks","agentic task loop · Supabase Realtime + Gemini", "warn"),
     ("ResumeTailor","AI resume optimizer + cover letter generator", "warn"),
     ("__blank__", "", ""),
     ("__section__", "~/highlights", ""),
     ("Exp",      "AI Intern @ Capgemini  ·  Jan–May 2026", "val"),
-    ("Build",    "6+ production GenAI systems shipped", "val"),
+    ("Build",    "6+ production agentic systems shipped", "val"),
     ("__stats__", "", ""),
     ("__blank__", "", ""),
     ("__section__", "~/reach", ""),
@@ -74,11 +75,11 @@ THEMES = {
     },
 }
 
-W, H = 980, 620
-ART_X, ART_Y = 30, 86
+W, H = 980, 660
+ART_X, ART_Y = 30, 82
 ART_CW = 3.9          # forced char width (textLength keeps this exact in any font)
 ART_LH = ART_CW * 1.72
-INFO_X, INFO_Y, INFO_LH = 448, 92, 17.5
+INFO_X, INFO_Y, INFO_LH = 448, 90, 17.5
 VAL_X = INFO_X + 92
 
 
@@ -234,7 +235,7 @@ def render(theme_name, colors, stats, ist_now):
         f'<text x="{ART_X}" y="{fy}" class="row" style="animation-delay:{delay+0.1:.2f}s">'
         f'<tspan class="key">➜</tspan>'
         f'<tspan class="acc" dx="8">~</tspan>'
-        f'<tspan class="val" dx="8">open to AI Engineer / Backend SDE roles</tspan>'
+        f'<tspan class="val" dx="8">building agentic loops · MCP · context engineering · open to roles</tspan>'
         f'<tspan class="cur" dx="8">█</tspan></text>'
     )
     parts.append(
